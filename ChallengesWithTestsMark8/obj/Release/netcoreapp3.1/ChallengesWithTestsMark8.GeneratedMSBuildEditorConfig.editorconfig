@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = ChallengesWithTestsMark8
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\hasib\repos\WeeklyChallenges\ChallengesWithTestsMark8\
+=======
+build_property.ProjectDir = C:\Users\hasib\source\repos\WeeklyChallenges\ChallengesWithTestsMark8\
+>>>>>>> 8b48ad4a0730eb84701df8175e5ec5de71f5aa31
